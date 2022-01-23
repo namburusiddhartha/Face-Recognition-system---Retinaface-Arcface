@@ -11,3 +11,4 @@ __init__.py required
 #### Usage
 1) extractembeddings.py - to generate npz file with descriptors (watchlist)
 2) detection.py - detect and recognise faces.
+.pth files are required to run, which will be uploaded.
